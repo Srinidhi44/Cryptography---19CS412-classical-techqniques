@@ -477,7 +477,8 @@ return 0;
 
 OUTPUT :
 
-![vign (2)](https://github.com/Srinidhi44/Cryptography---19CS412-classical-techqniques/assets/119291466/64e2a198-7fff-46f4-bab0-8c6285cbadd6)
+![ewf](https://github.com/Srinidhi44/Cryptography---19CS412-classical-techqniques/assets/119291466/e7b0e008-be14-4f26-95fa-0754d0e20d58)
+
 
 
 
